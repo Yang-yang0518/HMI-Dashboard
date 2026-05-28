@@ -22,3 +22,5 @@
 
 ## 畫面截圖
 <img width="1107" height="745" alt="HMI 實作" src="https://github.com/user-attachments/assets/b2724b63-856d-4ae8-9132-9c7f9c3b7e6a" />
+<img width="1113" height="738" alt="HMI 警告" src="https://github.com/user-attachments/assets/723d34be-ab78-4c3b-9f95-bbd0439517ba" />
+<img width="1122" height="737" alt="HMI 異常" src="https://github.com/user-attachments/assets/da266bd5-1db8-4c15-825e-bbe71882e78e" />
