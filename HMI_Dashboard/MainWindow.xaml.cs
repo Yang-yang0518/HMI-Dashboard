@@ -175,6 +175,11 @@ namespace HMI_Dashboard
                 Dispatcher.Invoke(() => AddLog($"❌ DB錯誤：{ex.Message}"));
             }
         }
+        private void BtnHistory_Click(object sender, RoutedEventArgs e)
+        {
+            var historyWindow = new HistoryWindow();
+            historyWindow.Show();
+        } 
 
         private void AddLog(string message)
         {
