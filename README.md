@@ -23,6 +23,5 @@
 ## 畫面截圖
 <img width="1107" height="745" alt="HMI 實作" src="https://github.com/user-attachments/assets/07754ade-6c6e-48a4-bfd2-3a6987c107dc" />
 <img width="971" height="526" alt="HMI歷史查詢" src="https://github.com/user-attachments/assets/f427b695-86df-403d-b184-69d8f92b25dc" />
-<img width="1733" height="852" alt="HMI 異常系統通知" src="https://github.com/user-attachments/assets/392cdc9e-f4aa-4f9d-a093-0155a69ac289" />
 <img width="967" height="607" alt="HMI 匯出CSV" src="https://github.com/user-attachments/assets/fa875f46-7491-4043-82b8-f3591dad9bbd" />
-
+<img width="1733" height="852" alt="HMI 異常系統通知" src="https://github.com/user-attachments/assets/392cdc9e-f4aa-4f9d-a093-0155a69ac289" />
