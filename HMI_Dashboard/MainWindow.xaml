@@ -19,6 +19,7 @@
                 <ColumnDefinition Width="120"/>
                 <ColumnDefinition Width="120"/>
                 <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="120"/>
             </Grid.ColumnDefinitions>
 
             <TextBlock Grid.Column="0" Text="產線設備監控系統" 
@@ -40,6 +41,9 @@
             <Button Grid.Column="3" x:Name="BtnStop" Content="■ 停止" 
                     Background="#E74C3C" Foreground="White" 
                     FontSize="14" Margin="5" Click="BtnStop_Click"/>
+            <Button Grid.Column="4" x:Name="BtnHistory" Content="📋 歷史" 
+                    Background="#2980B9" Foreground="White" 
+                    FontSize="14" Margin="5" Click="BtnHistory_Click"/> 
         </Grid>
 
         <!-- 中間主體 -->
